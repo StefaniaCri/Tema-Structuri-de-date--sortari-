@@ -124,7 +124,7 @@ def median(t,start,stop):
     t[start], t[stop] = t[stop], t[start]
     return partition(t,start,stop)
 
-g=open("Timpi",'w')
+g=open("Timpi.out",'w')
 f=open("teste")
 numar_teste=int(f.readline())
 for i in range(numar_teste):
