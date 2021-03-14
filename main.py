@@ -32,8 +32,8 @@ def CountSort(t):
             k+=1
 
 def Radixsort( t ):
-    base = 256      #1 0000 0000
-    shift = 0       #0000 0000
+    base = 256     
+    shift = 0      
     mask = ( 1 << 8 ) - 1  #1111 1111
     maxi = max(t)
     co = 0
