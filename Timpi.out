@@ -1,0 +1,121 @@
+N=100    Maxim=10000
+A sortat 100 (10^2) elemente in 0.001998424530029297 secunde cu BubbleSort() 
+CORECT
+A sortat 100 (10^2) elemente in 0.0 secunde cu Sort()
+ A sortat 100 (10^2) elemente in 0.0 secunde cu RadixSort()
+CORECT
+A sortat 100 (10^2) elemente in 0.0039975643157958984 secunde cu CountSort()
+ CORECT
+A sortat 100 (10^2) elemente in 0.0009992122650146484 secunde cu MergeSort() 
+CORECT
+A sortat 100 (10^2) elemente in 0.001998424530029297 secunde cu QuickSort() pivotul ales la intamplare 
+CORECT
+---------
+
+
+N=1000    Maxim=10000
+A sortat 1000 (10^3) elemente in 0.1889019012451172 secunde cu BubbleSort() 
+CORECT
+A sortat 1000 (10^3) elemente in 0.0 secunde cu Sort()
+ A sortat 1000 (10^3) elemente in 0.00099945068359375 secunde cu RadixSort()
+CORECT
+A sortat 1000 (10^3) elemente in 0.00499725341796875 secunde cu CountSort()
+ CORECT
+A sortat 1000 (10^3) elemente in 0.0039980411529541016 secunde cu MergeSort() 
+CORECT
+A sortat 1000 (10^3) elemente in 0.0239865779876709 secunde cu QuickSort() pivotul ales la intamplare 
+CORECT
+---------
+
+
+N=10000    Maxim=10000
+A sortat 10000 (10^4) elemente in 19.18803906440735 secunde cu BubbleSort() 
+CORECT
+A sortat 10000 (10^4) elemente in 0.0 secunde cu Sort()
+ A sortat 10000 (10^4) elemente in 0.006996631622314453 secunde cu RadixSort()
+CORECT
+A sortat 10000 (10^4) elemente in 0.008995294570922852 secunde cu CountSort()
+ CORECT
+A sortat 10000 (10^4) elemente in 0.04897785186767578 secunde cu MergeSort() 
+CORECT
+A sortat 10000 (10^4) elemente in 0.09794950485229492 secunde cu QuickSort() pivotul ales la intamplare 
+CORECT
+---------
+
+
+N=100000    Maxim=10000
+Am sarit peste Bubble
+A sortat 100000 (10^5) elemente in 0.01999187469482422 secunde cu Sort()
+ A sortat 100000 (10^5) elemente in 0.07396554946899414 secunde cu RadixSort()
+CORECT
+A sortat 100000 (10^5) elemente in 0.047972679138183594 secunde cu CountSort()
+ CORECT
+A sortat 100000 (10^5) elemente in 0.6336698532104492 secunde cu MergeSort() 
+CORECT
+A sortat 100000 (10^5) elemente in 0.9674937725067139 secunde cu QuickSort() pivotul ales la intamplare 
+CORECT
+---------
+
+
+N=1000000    Maxim=10000
+Am sarit peste Bubble
+A sortat 1000000 (10^6) elemente in 0.25983643531799316 secunde cu Sort()
+ A sortat 1000000 (10^6) elemente in 1.0034923553466797 secunde cu RadixSort()
+CORECT
+A sortat 1000000 (10^6) elemente in 0.697638750076294 secunde cu CountSort()
+ CORECT
+A sortat 1000000 (10^6) elemente in 6.931405782699585 secunde cu MergeSort() 
+CORECT
+A sortat 1000000 (10^6) elemente in 10.869633436203003 secunde cu QuickSort() pivotul ales la intamplare 
+CORECT
+---------
+
+
+N=1000    Maxim=1000
+Un singur element
+A sortat 1000 (10^3) elemente in 0.0009984970092773438 secunde cu BubbleSort() 
+CORECT
+A sortat 1000 (10^3) elemente in 0.0 secunde cu Sort()
+ A sortat 1000 (10^3) elemente in 0.0 secunde cu RadixSort()
+CORECT
+A sortat 1000 (10^3) elemente in 0.0 secunde cu CountSort()
+ CORECT
+A sortat 1000 (10^3) elemente in 0.0039975643157958984 secunde cu MergeSort() 
+CORECT
+A sortat 1000 (10^3) elemente in 0.0039937496185302734 secunde cu QuickSort() pivotul ales ca primul element 
+CORECT
+---------
+
+
+N=1000    Maxim=1000
+Gata sorta
+A sortat 1000 (10^3) elemente in 0.0 secunde cu BubbleSort() 
+CORECT
+A sortat 1000 (10^3) elemente in 0.0 secunde cu Sort()
+ A sortat 1000 (10^3) elemente in 0.0019974708557128906 secunde cu RadixSort()
+CORECT
+A sortat 1000 (10^3) elemente in 0.0009989738464355469 secunde cu CountSort()
+ CORECT
+A sortat 1000 (10^3) elemente in 0.003996849060058594 secunde cu MergeSort() 
+CORECT
+A sortat 1000 (10^3) elemente in 0.009001493453979492 secunde cu QuickSort() pivotul ales la intamplare 
+CORECT
+---------
+
+
+N=1000    Maxim=1000
+Partial sortata
+A sortat 1000 (10^3) elemente in 0.13692831993103027 secunde cu BubbleSort() 
+CORECT
+A sortat 1000 (10^3) elemente in 0.0 secunde cu Sort()
+ A sortat 1000 (10^3) elemente in 0.001998424530029297 secunde cu RadixSort()
+CORECT
+A sortat 1000 (10^3) elemente in 0.0020012855529785156 secunde cu CountSort()
+ CORECT
+A sortat 1000 (10^3) elemente in 0.010992765426635742 secunde cu MergeSort() 
+CORECT
+A sortat 1000 (10^3) elemente in 0.12693333625793457 secunde cu QuickSort() pivotul ales ca mediana de 3
+CORECT
+---------
+
+
